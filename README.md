@@ -1,6 +1,6 @@
 # isteCenter-elkMaster-Dockerization
   
-  `sudo apt-get install docker.io`
+  `sudo apt-get install docker.io` (For debian)
 
   `pip install docker-compose`
   
