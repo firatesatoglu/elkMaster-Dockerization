@@ -1,0 +1,9 @@
+filebeat.inputs:
+- type: log
+  enabled: true
+  paths:
+    - /tmp/dataCsv/*.csv
+
+output.logstash:
+  hosts: ["localhost:5044"]
+
