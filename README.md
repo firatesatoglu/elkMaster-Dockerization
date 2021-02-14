@@ -1,7 +1,7 @@
 # isteCenter-elkMaster-Dockerization
   
-  sudo apt-get install docker.io
-  pip install docker-compose
+  `sudo apt-get install docker.io \n
+  pip install docker-compose`
   
-  `docker-compose build
+  `docker-compose build \n
   docker-compose up`
